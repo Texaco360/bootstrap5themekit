@@ -4,5 +4,11 @@
 
 //alle scss te voorzien in de home klasse . Ze wordt voorzien op de main tag van de pagina
 .home{
+  .bg-image{
+      background-image:url('../images/home/namibie-algemeen-groep-olifanten-59d362b81aa53.jpg');
+      background-repeat: no-repeat;
+      background-position: center;
 
+
+  }
 }
